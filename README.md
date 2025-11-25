@@ -61,7 +61,8 @@ func azure functionapp publish task21 --build remote
 
 ✔ Status : All 5 endpoints tested successfully using Thunder Client.
 
-Author
-Bhanu Prasad Bathula
+NOTE :
 
-
+- Azure CosmosDB  Name :  bhanucosmos21
+- FunctionApp     Name  :  task21
+  
