@@ -1,0 +1,4 @@
+azure-functions
+azure-functions-worker
+azure-core
+azure-cosmos

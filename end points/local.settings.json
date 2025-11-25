@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "PYTHON_ISOLATED_WORKER_ENABLE_WORKER_EXTENSIONS": "1",
+    "COSMOS_URI": "https://bhanucosmos21.documents.azure.com:443/",
+    "COSMOS_KEY": "bxKnTaB6V59DK42ESdFc1hfdfyfbtfS2f7im5zxYs5zJDHJvWMt6JyjtwVPgRvE3iRGCBp7bK3ATACDbZMQ6uw==",
+    "COSMOS_DB": "bhanuDB",
+    "COSMOS_CONTAINER": "Products"
+  }
+}
